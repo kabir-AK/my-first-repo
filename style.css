@@ -4,3 +4,9 @@ h1{
 h2{
     font-size: 200px;
 }
+h3{
+    color: violet;
+}
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
